@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pancakex.png" width="200"/>
+  <img src="logo.png" width="200"/>
   <h1>PancakeX</h1>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
